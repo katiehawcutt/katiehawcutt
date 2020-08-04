@@ -1,6 +1,6 @@
 ## Hi, I'm Katie...
 
-![Katie](./Katie.png)
+![Katie](https://raw.githubusercontent.com/katiehawcutt/katiehawcutt/master/Katie.png)
 
 I’ve spent the last 10 years working in the music industry which has been fantastic! 🎷 But I’m now embracing a new challenge in life and I'm learning to code. 💻
 
