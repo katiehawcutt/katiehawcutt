@@ -1,6 +1,6 @@
 ## Hi, I'm Katie...
 
-<img src="https://raw.githubusercontent.com/katiehawcutt/katiehawcutt/master/Katie.png" style="width:250px;">
+<img src="https://raw.githubusercontent.com/katiehawcutt/katiehawcutt/master/hello.png">
 
 I’ve spent the last 10 years working in the music industry which has been fantastic! 🎷 But I’m now embracing a new challenge in life and I'm learning to code. 💻
 
