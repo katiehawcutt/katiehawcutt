@@ -1,5 +1,7 @@
 ## Hi, I'm Katie...
 
+<img src="">
+
 I'm a full-stack software developer based in Birmingham and I'm currently training with the [School of Code](https://www.schoolofcode.co.uk/) on their 16 week, full-time, fully-immersive programming bootcamp.
 
 After a decade of working in the music industry I was ready for a new challenge in life so I swapped the language of jazz 🎷 for the language of JavaScript 💻 and joined the School of Code! This has led to opportunities to exercise creative problem solving in a whole new realm.
