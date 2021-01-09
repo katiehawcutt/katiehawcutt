@@ -1,6 +1,6 @@
 ## Hi, I'm Katie...
 
-<img src="https://github.com/katiehawcutt/katiehawcutt/blob/master/katie-headshot.png?raw=true" width="300">
+<img src="https://github.com/katiehawcutt/katiehawcutt/blob/master/kh.png" width="300">
 
 I'm a full-stack software developer based in Birmingham and I'm currently training with the [School of Code](https://www.schoolofcode.co.uk/) on their 16 week, full-time, fully-immersive programming bootcamp.
 
